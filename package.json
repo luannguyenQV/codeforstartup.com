@@ -1,7 +1,7 @@
 {
-  "name": "next-js-boilerplate",
-  "version": "3.58.2",
-  "author": "Ixartz (https://github.com/ixartz)",
+  "name": "codeforstartup",
+  "version": "1.0.0",
+  "author": "Luan Nguyen (https://github.com/luannguyenqv)",
   "scripts": {
     "dev:spotlight": "spotlight-sidecar",
     "dev:next": "next dev",
