@@ -1,3 +1,10 @@
+# 1.0.0 (2024-10-20)
+
+
+### Features
+
+* init project (cont) ([a59e7db](https://github.com/luannguyenQV/codeforstartup.com/commit/a59e7dbeb1a4640723c3e910b44a5220c615b403))
+
 ## [3.58.2](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.58.1...v3.58.2) (2024-10-17)
 
 
